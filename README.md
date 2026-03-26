@@ -155,14 +155,19 @@ Menampilkan container Docker yang sedang berjalan.
 
 ```bash
 simple-lms/
-├── docker-compose.yml
-├── Dockerfile
-├── .env.example
-├── requirements.txt
-├── manage.py
 ├── config/
+│   ├── __pycache__/
+│   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
-└── README.md
+├── staticfiles/
+├── .env
+├── .env.example
+├── Dockerfile
+├── docker-compose.yml
+├── manage.py
+├── README.md
+└── requirements.txt
+Penjelasan Struktur
 ```
