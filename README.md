@@ -11,8 +11,8 @@ Ikuti langkah-langkah berikut untuk menjalankan project dari awal:
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/hafizh1119/Simple-LMS
-cd simple-LMS
+git clone https://github.com/hafizh1119/simple-lms
+cd simple-lms
 ```
 
 ---
