@@ -12,7 +12,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project dari awal:
 
 ```bash
 git clone (https://github.com/hafizh1119/Simple-LMS---Docker-Django-Foundation)
-cd simple-lms
+cd simple-LMS
 ```
 
 ---
